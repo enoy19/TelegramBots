@@ -15,6 +15,7 @@
         <module>telegrambots-extensions</module>
         <module>telegrambots-abilities</module>
         <module>telegrambots-spring-boot-starter</module>
+	    <module>telegrambots-spring-tg</module>
     </modules>
 
     <licenses>
